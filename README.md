@@ -1,0 +1,4 @@
+HaarTesting
+===========
+
+Testing Haar-correlation
