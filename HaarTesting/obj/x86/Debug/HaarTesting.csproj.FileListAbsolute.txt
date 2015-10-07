@@ -11,8 +11,7 @@ E:\Наработки\HaarTesting\HaarTesting\HaarTesting\obj\x86\Debug\HaarTest
 E:\Наработки\HaarTesting\HaarTesting\HaarTesting\obj\x86\Debug\HaarTesting.pdb
 E:\Наработки\HaarTesting\HaarTesting\HaarTesting\bin\Debug\HaarTesting.exe
 E:\Наработки\HaarTesting\HaarTesting\HaarTesting\bin\Debug\HaarTesting.pdb
-E:\Наработки\HaarTesting\HaarTesting\HaarTesting\obj\x86\Debug\ResolveAssemblyReference.cache
 E:\Наработки\HaarTesting\HaarTesting\HaarTesting\obj\x86\Debug\HaarTesting.Form1.resources
 E:\Наработки\HaarTesting\HaarTesting\HaarTesting\obj\x86\Debug\HaarTesting.Properties.Resources.resources
-E:\Наработки\HaarTesting\HaarTesting\HaarTesting\obj\x86\Debug\GenerateResource.read.1.tlog
-E:\Наработки\HaarTesting\HaarTesting\HaarTesting\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Наработки\HaarTesting\HaarTesting\HaarTesting\obj\x86\Debug\HaarTesting.csprojResolveAssemblyReference.cache
+E:\Наработки\HaarTesting\HaarTesting\HaarTesting\obj\x86\Debug\HaarTesting.csproj.GenerateResource.Cache
